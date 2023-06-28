@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dxtrity
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Web 3.0
+- 👋 Hi, I’m **dx**trity.
+- I make minecraft mods for fun and other things too.
+
 - 📫 Contact me on [Twitter](https://twitter.com/dxtrity)
 
 <!---
