@@ -1,7 +1,19 @@
-- 👋 Hi, I’m **dx**trity.
-- I make minecraft mods for fun and other things too.
+👋 Hi, I’m **dx**trity.
+I program as a hobby and I am studying computer science too.
 
-- 📫 Contact me on [Twitter](https://twitter.com/dxtrity)
+Things that I've learned:
+    - Python
+    - JavaScript
+    - TypeScript
+    - Go
+
+Things I am learning:
+    - C/C++
+    - Rust
+    - ML/AI
+    - Compilers
+
+📫 Contact me on [Twitter](https://twitter.com/dxtrity)
 
 <!---
 dxtrity/dxtrity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
