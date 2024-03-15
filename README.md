@@ -9,6 +9,7 @@ Things that I've learned:
     - Go
 
 Things I am learning:
+
     - C/C++
     - Rust
     - ML/AI
