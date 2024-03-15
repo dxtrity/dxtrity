@@ -2,6 +2,7 @@
 I program as a hobby and I am studying computer science too.
 
 Things that I've learned:
+
     - Python
     - JavaScript
     - TypeScript
