@@ -16,7 +16,6 @@
 <h2 align="center">Workspace</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img src=""/>
     <img src="https://img.shields.io/badge/ryzen_5_5500-red?style=for-the-badge" />
     <img src="https://img.shields.io/badge/radeon_rx_6600-red?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
