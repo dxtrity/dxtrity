@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋 Hi, I'm Kacper!
+    <img src="https://cdn.discordapp.com/attachments/936976667052748810/1313556166718001233/profile_gh_banner.png?ex=67509002&is=674f3e82&hm=041bc1ae52233a5509496346ae2d1c2c6cce164fce9f0d6bec74524f169f46af&"/>
 </h1>
 
 <p align="center">
