@@ -23,7 +23,7 @@
 
 <p align="center">
     📫 Contact me at:
-    <b>kkam05@icloud.com</b>
+    <b>kacper@kaminski.ltd</b>
 </p>
 
 <details>
