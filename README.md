@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img src="banner.png"/>
-</h1>
-
 <p align="center">
     I'm a developer from the UK
 </p>
