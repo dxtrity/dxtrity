@@ -19,20 +19,11 @@
 
 <p align="center">
     📫 Contact me at:
-    <b>kacper@kaminski.ltd</b>
+    <b>dxtrity@scnw.xyz</b>
 </p>
 
 <details>
     <summary>📃 CV</summary>
-
-## Education
-- 📖 **GCSE Computer Science**\
-📆 2020 - 2022\
-📍 Oldfield School and Sixth Form
-
-- 📖 **A Level Computer Science**\
-📆 2022 - 2024\
-📍 Oldfield School and Sixth Form
 
 ## What I Know
 <h3 align="center">🌐 Web Technologies</h3>
